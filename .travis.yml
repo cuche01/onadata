@@ -24,7 +24,6 @@ cache:
 python:
   - '2.7.14'
   - '3.6'
-  - '3.7.2'
 
 services:
   - postgresql
